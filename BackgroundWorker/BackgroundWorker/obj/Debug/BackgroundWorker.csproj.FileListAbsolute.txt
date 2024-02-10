@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\WPF\ПЗ9\BackgroundWorker\BackgroundWorker\bin\Debug\BackgroundWorker.exe.config
+C:\Users\Lenovo\Desktop\WPF\ПЗ9\BackgroundWorker\BackgroundWorker\bin\Debug\BackgroundWorker.exe
+C:\Users\Lenovo\Desktop\WPF\ПЗ9\BackgroundWorker\BackgroundWorker\bin\Debug\BackgroundWorker.pdb
+C:\Users\Lenovo\Desktop\WPF\ПЗ9\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\WPF\ПЗ9\BackgroundWorker\BackgroundWorker\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\WPF\ПЗ9\BackgroundWorker\BackgroundWorker\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\WPF\ПЗ9\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\WPF\ПЗ9\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\WPF\ПЗ9\BackgroundWorker\BackgroundWorker\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\WPF\ПЗ9\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.g.resources
+C:\Users\Lenovo\Desktop\WPF\ПЗ9\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\WPF\ПЗ9\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\WPF\ПЗ9\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\WPF\ПЗ9\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.exe
+C:\Users\Lenovo\Desktop\WPF\ПЗ9\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.pdb
